@@ -1,0 +1,36 @@
+hai 
+Iam Shana
+
+Git is a version control
+And Github is Cloud Storage like
+Git and Github using Commands
+
+First Step
+
+git clone <url> to clone repo   
+github project clone our project or repo
+
+git init -- initialise locally created repo (folder)
+
+then Config Project to Git, only one time configure after that this credentioal i creating your computer
+
+git config --global user.email "Shana4658@gmail.com"
+git config --global user.name "Shana"
+
+then 
+git add .  -- staged changes that means save file starting 
+or 
+git add filename1 filename2
+ex: git add Fcode Scode
+
+git commit -m "Messsage"
+this means commit is must for git and git hub this is like identify changes
+
+after that remote creation
+ 
+ git remote add <remotename> <remoteurl>
+ remote means --- thinking
+ git push <remote_name> <branch_name>
+ push means our project or file finally push currensponding repo in github
+
+
