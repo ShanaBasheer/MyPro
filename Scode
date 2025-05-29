@@ -1,1 +1,11 @@
-Hai shana Arun sharang where is Arun
+Hai shana Arun sharang where is Arung
+git
+git init --- initialise repo  doubt all file this is must
+
+config section one time completed .this time no need
+
+git add . --stages changes
+git commit -m "message"
+
+then already ones completed remote no need 
+git push Myrepo mastergit g
