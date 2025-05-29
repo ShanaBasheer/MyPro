@@ -9,3 +9,19 @@ git commit -m "message"
 
 then already ones completed remote no need 
 git push Myrepo mastergit g
+
+git status --current changes
+git log -- view commit history
+git diff -- show file changes
+
+
+
+q -- for command prompt return
+
+today work
+
+git branch branc_name   -new branch creation
+git checkout -b branch_name  -----branch create+switch 
+git checkout branch_name --existing branch switching
+git branch -- view all branches
+
